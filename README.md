@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Gourav Kumar aka Luciferxgkp</h1>
+Hi 👋, I'm Gourav Kumar aka Luciferxgkp
 
 [![Gmail](https://img.shields.io/badge/-Gmail-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aec.cse.gourav.095@gmail.com) ](mailto:aec.cse.gourav.095@gmail.com)
 
