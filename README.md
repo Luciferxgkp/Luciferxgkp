@@ -1,3 +1,3 @@
 Hi there, I'm Gourav Kumar aka Luciferxgkp :wave:.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/luciferxgkp?label=Follow)
+![Twitter Follow](https://twitter.com/intent/follow?screen_name=GouravK37913421)
