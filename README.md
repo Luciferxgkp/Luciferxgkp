@@ -12,7 +12,7 @@ I am a full-stack developer and a competitive programmer. I am a tech enthusiast
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://github.com/Luciferxgkp/Luciferxgkp/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool. :wink:.
+- <img src="https://github.com/Luciferxgkp/Luciferxgkp/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool. :wink:
 - <img src="https://github.com/Luciferxgkp/Luciferxgkp/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/luciferxGKP).
 - <img src="https://github.com/Luciferxgkp/Luciferxgkp/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help. :smile:
 - <img src="https://github.com/Luciferxgkp/Luciferxgkp/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: [Gourav Kumar](mailto:aec.cse.gourav.095@gmail.com).
