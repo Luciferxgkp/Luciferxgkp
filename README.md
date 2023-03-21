@@ -10,4 +10,4 @@ Hi there, I'm Gourav Kumar aka Luciferxgkp :wave:.
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-blue)](https://www.codechef.com/users/luciferxgkp)
 
-Glad to see you here! :heart: [![Visits Badge](https://badges.pufler.dev/visits/LuciferxGKP/LuciferxGKP)](https://badges.pufler.dev)
+Glad to see you here! :heart: :heart: ![visitors](https://visitor-badge.glitch.me/badge?page_id=Luciferxgkp.Luciferxgkp)
