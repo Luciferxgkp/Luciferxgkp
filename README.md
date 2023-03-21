@@ -1,4 +1,4 @@
-### <samp>&gt; Hi there, I'm Gourav Kumar aka Luciferxgkp <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> </samp>
+### <samp>&gt; Hi there, I'm Gourav Kumar aka Luciferxgkp <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin/in/gourav-kumar-prajapati)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GouravK37913421)
@@ -8,7 +8,7 @@
 
 I am a full-stack developer and a competitive programmer. I am a tech enthusiast and love to explore new technologies. I am a quick learner and always ready to accept new challenges. I am a team player and always ready to help my teammates.
 
-<img align="right" alt="GIF" src="https://github.com/Luciferxgkp/Luciferxgkp/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Luciferxgkp/Luciferxgkp/blob/main/assets/coding.gif?raw=true" width="250" height="258" />
 
 **Talking about Personal Stuffs:**
 
