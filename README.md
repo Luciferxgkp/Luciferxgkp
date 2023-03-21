@@ -1,39 +1,49 @@
-Hi 👋, I'm Gourav Kumar aka Luciferxgkp
+### <samp>&gt; Hi there, I'm Gourav Kumar aka Luciferxgkp <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-## About Me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GKassym)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
 
-I'm a Full Stack Developer, Android Developer and a Tech Enthusiast. I'm from India, living in Bokaro Steel City and currently working as a Freelancer. I have a keen interest in Web Development and App Development. I'm also a Competitive Programmer. I love to explore new technologies and leverage them to solve real-life problems.
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
-## Skills
+I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
 
-- **Languages:**  JavaScript, C++, HTML, CSS, SQL, PHP
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-- **Frameworks:**  React, Express, Tailwind,  Node.js, Flutter, React Native, Next.js
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+  
 
-- **Databases:**  MongoDB, MySQL, Firebase
+**Talking about Personal Stuffs:**
 
-- **Tools:**  Git, Github, VS Code, Figma,
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://gapur-kassym.medium.com);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: gapur.kassym@gmail.com;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://gkassym.netlify.app/Resume.pdf).
 
-## Connect with me
+</br>
 
-- [Twitter](https://twitter.com/Luciferxgkp)
-- [LinkedIn](https://www.linkedin.com/in/gourav-kumar-5b1b3b1b3/)
-- [Instagram](https://www.instagram.com/luciferxgkp/)
-- [Facebook](https://www.facebook.com/gourav.kumar.5811/)
-- [Website](https://luciferxgkp.github.io/)
-- [Email](mailto:aec.cse.gourav.095@gmail.com)
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
 
-## Github Stats
+```text
+No activity tracked
+```
 
-![Gourav's github stats](https://github-readme-stats.vercel.app/api?username=luciferxgkp&show_icons=true&theme=radical)
+<!--END_SECTION:waka-->
 
-## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciferxgkp&layout=compact&theme=radical)
+📈 **My GitHub Stats:**
 
-## Pinned Repositories
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luciferxgkp&repo=github-readme-stats)]
 
 
 
