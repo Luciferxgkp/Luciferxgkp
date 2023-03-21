@@ -23,6 +23,6 @@ I am a full-stack developer and a competitive programmer. I am a tech enthusiast
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luciferxgkp&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciferxgkp&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luciferxgkp&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciferxgkp&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
 </p>
