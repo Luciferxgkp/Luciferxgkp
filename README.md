@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gourav Kumar aka Luciferxgkp</h1>
+<h1>Hi 👋, I'm Gourav Kumar aka Luciferxgkp</h1>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aec.cse.gourav.095@gmail.com) ](mailto:aec.cse.gourav.095@gmail.com)
 
@@ -10,4 +10,4 @@
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-blue)](https://www.codechef.com/users/luciferxgkp)
 
-<h2 align="center">Glad to see you here! :star_struck:  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Luciferxgkp.Luciferxgkp)</h2>
+<h2>Glad to see you here! :star_struck:</h2>
