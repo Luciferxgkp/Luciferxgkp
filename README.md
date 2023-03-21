@@ -1,13 +1,39 @@
 Hi 👋, I'm Gourav Kumar aka Luciferxgkp
 
-[![Gmail](https://img.shields.io/badge/-Gmail-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aec.cse.gourav.095@gmail.com) ](mailto:aec.cse.gourav.095@gmail.com)
+## About Me
 
-[![Twitter](https://img.shields.io/twitter/follow/GouravK37913421?label=Follow)](https://twitter.com/intent/follow?screen_name=GouravK37913421)
+I'm a Full Stack Developer, Android Developer and a Tech Enthusiast. I'm from India, living in Bokaro Steel City and currently working as a Freelancer. I have a keen interest in Web Development and App Development. I'm also a Competitive Programmer. I love to explore new technologies and leverage them to solve real-life problems.
 
-[![Linkedin](https://img.shields.io/badge/-Gourav%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gourav-kumar-prajapati/)](https://www.linkedin.com/in/gourav-kumar-prajapati/)
+## Skills
 
-[![Leetcode](https://img.shields.io/badge/Leetcode-Profile-blue)](https://leetcode.com/LuciferxGKP/)
+- **Languages:**  JavaScript, C++, HTML, CSS, SQL, PHP
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-blue)](https://www.codechef.com/users/luciferxgkp)
+- **Frameworks:**  React, Express, Tailwind,  Node.js, Flutter, React Native, Next.js
 
-<h2>Glad to see you here! :star_struck:</h2>
+- **Databases:**  MongoDB, MySQL, Firebase
+
+- **Tools:**  Git, Github, VS Code, Figma,
+
+## Connect with me
+
+- [Twitter](https://twitter.com/Luciferxgkp)
+- [LinkedIn](https://www.linkedin.com/in/gourav-kumar-5b1b3b1b3/)
+- [Instagram](https://www.instagram.com/luciferxgkp/)
+- [Facebook](https://www.facebook.com/gourav.kumar.5811/)
+- [Website](https://luciferxgkp.github.io/)
+- [Email](mailto:aec.cse.gourav.095@gmail.com)
+
+## Github Stats
+
+![Gourav's github stats](https://github-readme-stats.vercel.app/api?username=luciferxgkp&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciferxgkp&layout=compact&theme=radical)
+
+## Pinned Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luciferxgkp&repo=github-readme-stats)]
+
+
+
