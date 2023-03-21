@@ -1,4 +1,6 @@
-Hi there, I'm Gourav Kumar aka Luciferxgkp :wave:.
+<h1 align="center">Hi 👋, I'm Gourav Kumar aka Luciferxgkp</h1>
+
+## :social_media: Connect with me
 
 [![Gmail](https://img.shields.io/badge/-Mail-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aec.cse.gourav.095@gmail.com)](mailto:aec.cse.gourav.095@gmail.com)
 [![Twitter](https://img.shields.io/twitter/follow/GouravK37913421?label=Follow)](https://twitter.com/intent/follow?screen_name=GouravK37913421)<br>
