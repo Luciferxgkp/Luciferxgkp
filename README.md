@@ -1,11 +1,33 @@
 Hi there, I'm Gourav Kumar aka Luciferxgkp :wave:.
 
-[![Gmail](https://img.shields.io/badge/-Mail-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aec.cse.gourav.095@gmail.com)](mailto:aec.cse.gourav.095@gmail.com)
+I'm a 3rd year undergraduate student at IIT Roorkee, India. I'm a full stack developer and a competitive programmer. I'm also a member of the Google Summer of Code 2020.
 
-[![Twitter](https://img.shields.io/twitter/follow/GouravK37913421?label=Follow)](https://twitter.com/intent/follow?screen_name=GouravK37913421)
+I'm currently working on a project called [**Codeforces Visualizer**](
 
-[![Linkedin](https://img.shields.io/badge/-Gourav%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gourav-kumar-prajapati/)](https://www.linkedin.com/in/gourav-kumar-prajapati/)
+I'm also a member of the [**Codeforces Visualizer**](
 
-[![Leetcode](https://img.shields.io/badge/Leetcode-Profile-blue)](https://leetcode.com/LuciferxGKP/)
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-blue)](https://www.codechef.com/users/luciferxgkp)
+## :mailbox: Reach me out!
+
+- [**LinkedIn**](https://www.linkedin.com/in/gourav-kumar-2b4b6a1a0/)
+- [**Twitter**](https://twitter.com/Luciferxgkp)
+- [**Instagram**](https://www.instagram.com/luciferxgkp/)
+- [**Facebook**](https://www.facebook.com/gourav.kumar.581)
+- [**Email**](mailto:
+
+## :computer: Languages and Tools:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/heroku/heroku.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png"></code>
