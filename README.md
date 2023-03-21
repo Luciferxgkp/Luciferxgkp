@@ -6,4 +6,4 @@ Hi there, I'm Gourav Kumar aka Luciferxgkp :wave:.
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-blue)](https://www.codechef.com/users/luciferxgkp)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciferxgkp&layout=compact)]
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciferxgkp&layout=compact)
