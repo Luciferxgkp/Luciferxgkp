@@ -1,3 +1,3 @@
 Hi there, I'm Gourav Kumar aka Luciferxgkp :wave:.
 
-![Luciferxgkp](https://raw.githubusercontent.com/Luciferxgkp/Luciferxgkp/master/assets/luciferxgkp.png)
+![Twitter Follow](https://img.shields.io/twitter/follow/luciferxgkp?label=Follow)
