@@ -16,7 +16,7 @@ I am a full-stack developer and a competitive programmer. I am a tech enthusiast
 - <img src="https://github.com/Luciferxgkp/Luciferxgkp/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/luciferxGKP).
 - <img src="https://github.com/Luciferxgkp/Luciferxgkp/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help. :smile:
 - <img src="https://github.com/Luciferxgkp/Luciferxgkp/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: [Gourav Kumar](mailto:aec.cse.gourav.095@gmail.com).
-- <img src="https://github.com/Luciferxgkp/Luciferxgkp/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1P-bc8D5LTmeWaukT7WFimWWMTNEMIxYo/view) available.
+- <img src="https://github.com/Luciferxgkp/Luciferxgkp/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1QdoFtPtOO2yh6VMnWhvizu5eNoePKR3o/view?usp=drive_link) available.
 
 </br>
 
